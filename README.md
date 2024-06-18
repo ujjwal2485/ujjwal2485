@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
 <p align="center">
 <h1 align="center">Welcome to Ujjwal's Profile 👋</h1>
 </p>    
